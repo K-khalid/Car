@@ -3,3 +3,8 @@ h1 {
     background-color: green;
     display: flex;
 }
+
+.title {
+    margin: 12px;
+    padding: 45rem;
+}
